@@ -21,6 +21,9 @@
 Weather data = "https://data.kma.go.kr/climate/StatisticsDivision/selectStatisticsDivision.do?pgmNo=158"
 
 Price data = "https://www.kamis.or.kr/customer/main/main.do"
+
+agriculture data = "http://www.yongin.go.kr/home/atc/cityConsum/cityConsum05/cityConsum05_02/cityConsum05_02_20.jsp"
+
 ### Prerequisites / 선행 조건
 
 Python 3.8.5
@@ -50,10 +53,8 @@ warnings.filterwarnings('ignore')
 
 ## Built With / 누구랑 만들었나요?
 
-* [Sunny Kim](https://github.com/sunnyjamm) - Making dataset using Selenium, working on EDA, Regression analysis and README.md on 
-*                                           ./working notebooks/crawling.ipynb, ./working notebooks/main.ipynb, ./working notebooks/Paa.ipynb
-* [Chaebeen Seo](https://github.com/chaebeen) - Project idea to planning, working on Regression analysis on 
-*                                           ./working notebooks/04.ipynb, ./working notebooks/06.ipynb
+* [Sunny Kim](https://github.com/sunnyjamm) - Making dataset using Selenium, working on EDA, Regression analysis and README.md on ./working notebooks/crawling.ipynb, ./working notebooks/main.ipynb, ./working notebooks/Paa.ipynb
+* [Chaebeen Seo](https://github.com/chaebeen) - Project idea to planning, working on Regression analysis on ./working notebooks/04.ipynb, ./working notebooks/06.ipynb
 
 ## Contributiong / 기여
 
