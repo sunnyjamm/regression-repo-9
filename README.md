@@ -30,10 +30,6 @@ Python 3.8.5
 Selenium 
 
 
-```
-예시
-```
-
 ### Installing / 설치
 ```
 Python Client
@@ -60,7 +56,8 @@ warnings.filterwarnings('ignore')
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. / [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) 를 읽고 이에 맞추어 pull request 를 해주세요.
 
-* Hat tip to anyone whose code was used
+
+## Must Keep in Mind that 
 This project is using a time series data that is analyzed using Regression methods (Random Forest, OLS, etc.)  
 Keep in mind that this project is just for learning, and the result data is not significant. 
 Try using time series analysis for this datasets. 
