@@ -18,8 +18,9 @@
 """
 
 ## Getting Started 
+Weather data = "https://data.kma.go.kr/climate/StatisticsDivision/selectStatisticsDivision.do?pgmNo=158"
 
-
+Price data = "https://www.kamis.or.kr/customer/main/main.do"
 ### Prerequisites / 선행 조건
 
 Python 3.8.5
